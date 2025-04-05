@@ -22,4 +22,5 @@ This Power BI dashboard presents a visual analysis of an organization's financia
 - `README.md` — Project Overview
 
 ## 🧩 Internship Tag:
-Completed as part of CodeAlpha’s April 2025 Internship Challenge.
+Completed as part of CodeAlpha Internship Program  
+**Duration:** 15th March 2025 – 15th April 2025
