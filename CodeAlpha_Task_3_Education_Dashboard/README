@@ -1,1 +1,55 @@
+# CodeAlpha Task 3: Educational Performance & Resource Allocation Dashboard
+
+## Task Overview
+This Power BI dashboard is designed to provide insights into **educational performance** and **resource allocation**. The dashboard aims to analyze:
+- **Student Performance** across subjects and grades.
+- **Resource Utilization** including staffing, facilities, and technology usage.
+- **Program Effectiveness** for various educational programs.
+
+### Key Features
+- **Student Performance Analysis**: Average scores across subjects like Math, Science, and English.
+- **Resource Utilization**: Insights into resource allocation such as staff, facilities, and technology per school.
+- **Program Effectiveness**: Visual representation of how effective different educational programs are based on effectiveness ratings.
+
+## Data Used
+The data for this project consists of student performance metrics, school-level resource information, and program effectiveness ratings across various schools.
+
+### Data Columns
+- **Student_ID**: Unique identifier for each student.
+- **School**: Name of the school.
+- **Grade**: Grade of the student.
+- **Math_Score**: Math performance score.
+- **Science_Score**: Science performance score.
+- **English_Score**: English performance score.
+- **Resources_Staff**: Number of staff members.
+- **Resources_Facility**: Number of facilities available.
+- **Resources_Tech**: Number of technology resources available.
+- **Program_Effectiveness**: Rating of program effectiveness (High, Medium, Low).
+
+## Visualizations
+1. **Clustered Column Chart**: Comparing student performance across different subjects for each school.
+2. **Stacked Bar Chart**: Showing resource utilization (staff, facilities, and tech) across schools.
+3. **Donut Chart**: Representing program effectiveness (High, Medium, Low).
+4. **Line Chart**: Showing performance trends across different grades.
+
+## Objective
+The objective of this dashboard is to support **academic decision-making** by providing insights into student performance, resource usage, and the effectiveness of educational programs.
+
+---
+
+### Instructions for Viewing the Dashboard
+To interact with the dashboard:
+1. Open the Power BI Desktop file (`Educational_Dashboard.pbix`).
+2. You can filter the data by selecting specific schools or grades.
+3. Hover over different visuals for detailed tooltips and insights.
+
+## Technologies Used
+- **Power BI** for dashboard creation
+- **Excel** for data preparation
+
+
+The final deliverable includes the **Power BI file** (`Educational_Dashboard.pbix`) containing interactive visuals and insights for educational decision-making.
+
+
+Sai Goutham S
 
